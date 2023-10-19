@@ -2,15 +2,25 @@
 .navbar-brand img {
     padding-right: 15px;
     width: 85px;
-  }
+}
 
   /* Jumbotron  */
-.rockBackground {
-    height: calc(100vh - 25px);
-    background-image: url(../images/rockOn_dark.jpg);
+.LouisPhoto {
+    height: calc(150vh - 60px);
+    background-image: url(../images/Louis.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     display: flex;
     align-items: center;
     justify-content: center;
-  }
+
+}
+.jumboText {
+    width: 90%;
+    min-width: 500px;
+    max-width: 700px;
+    color: black;
+    text-align: -webkit-right;
+    margin-left: 35%;
+    margin-bottom: 45%;
+}
