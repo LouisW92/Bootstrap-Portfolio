@@ -50,3 +50,34 @@
     color: rgb(224, 222, 222)
 }
 
+.contactSection {
+    padding: 3rem;
+    border-radius: 5px;
+    background-color: rgb(44, 44, 44)
+}
+
+footer {
+    padding: 25px 0;
+    text-align: center;
+    margin: 7px
+
+  }
+
+  .btn {
+    box-shadow: 0 0.1875rem 0.1875rem 0 rgba(255, 254, 254, 0.841) !important;
+    padding: 0.8rem 1rem;
+    font-size: 80%;
+    text-transform: uppercase;
+    letter-spacing: 0.1rem;
+    border: 0;
+    margin: 7px;
+ }
+
+ #gitButton {
+    text-decoration: none;
+    color: whitesmoke;
+ }
+
+ .footerText {
+    padding: 18px;
+ }
