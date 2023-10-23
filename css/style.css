@@ -28,3 +28,24 @@
 .cardContainer {
     margin-bottom: 15px;
   }
+
+.skillsContainer {
+    height:200px
+}
+
+.work {
+    display: flex;
+    background-color: rgb(44, 44, 44);
+    padding: 20px;
+    margin-top: 13px;
+    margin-bottom: 18px;
+    border: 126px;
+    border-radius: 5px;
+}
+
+.workText {
+    font-weight: 400;
+    line-height: 1;
+    text-align: center;
+    color: rgb(224, 222, 222)
+}
