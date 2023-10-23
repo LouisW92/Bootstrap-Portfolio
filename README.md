@@ -9,7 +9,7 @@ I learned a lot during this process, particularly the utilisation of Bootstrap t
 
 This application has been deployed live on Git Pages, and can be run by accessing the following URL: 
 
-https://louisw92.github.io/Bootstrap-Portfolio/
+https://louisw92.github.io/Bootstrap-Portfolio_LouisWatson/
 
 
 ## Usage
